@@ -10,5 +10,6 @@ namespace API.Data
 
         }
         public DbSet<AppUser> Users { get; set; }
+        //table fi database 4ail el table bta3 users
     }
 }
